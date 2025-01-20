@@ -13,8 +13,8 @@
 
 
 <h2 align="left">
-  <kbd> Hi there <\kbd>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+  <kbd> Hi there 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> </kbd>
 </h2>
 
 𝙄'𝙢 **[`𝙁𝙪𝙨𝙨𝙞𝙤𝙣-𝙓𝙋`](https://www.youtube.com/@FussionXPLab)**,𝙖 𝙝𝙖𝙘𝙠𝙚𝙧 & 𝙎𝙚𝙘𝙪𝙧𝙞𝙩𝙮 𝙍𝙚𝙨𝙚𝙖𝙧𝙘𝙝𝙚𝙧 𝙖𝙣𝙙 𝙖𝙨𝙥𝙞𝙧𝙞𝙣𝙜 𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮 𝙎𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙨𝙩 𝙖𝙣𝙙 𝘽𝙪𝙜 𝙃𝙪𝙣𝙩𝙚𝙧. 𝙒𝙞𝙩𝙝 𝙖 𝙨𝙩𝙧𝙤𝙣𝙜 𝙥𝙖𝙨𝙨𝙞𝙤𝙣 𝙛𝙤𝙧 𝙩𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙮 𝙖𝙣𝙙 𝙚𝙭𝙥𝙚𝙧𝙩𝙞𝙨𝙚 𝙞𝙣 𝙢𝙖𝙡𝙬𝙖𝙧𝙚 𝙖𝙣𝙖𝙡𝙮𝙨𝙞𝙨, 𝙫𝙪𝙡𝙣𝙚𝙧𝙖𝙗𝙞𝙡𝙞𝙩𝙮 𝙖𝙨𝙨𝙚𝙨𝙨𝙢𝙚𝙣𝙩, 𝙖𝙣𝙙 𝙗𝙪𝙜 𝙝𝙪𝙣𝙩𝙞𝙣𝙜, 𝙢𝙮 𝙜𝙤𝙖𝙡 𝙞𝙨 𝙩𝙤 𝙨𝙖𝙛𝙚𝙜𝙪𝙖𝙧𝙙 𝙙𝙞𝙜𝙞𝙩𝙖𝙡 𝙖𝙨𝙨𝙚𝙩𝙨 𝙖𝙣𝙙 𝙘𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙚 𝙩𝙤 𝙖 𝙢𝙤𝙧𝙚 𝙨𝙚𝙘𝙪𝙧𝙚 𝙤𝙣𝙡𝙞𝙣𝙚 𝙘𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙮.
