@@ -88,6 +88,15 @@
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
   </div>
 </div>
+---
+
+  <div class="github-stats">
+    <h2>✨ GitHub Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=Karthik-HR0&theme=github_dark&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats">
+    <img src="https://streak-stats.demolab.com?user=Karthik-HR0&theme=github-dark&hide_border=true" alt="GitHub Streak">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karthik-HR0&theme=github_dark" alt="GitHub Productive Time">
+  </div>
+
 
 ---
 
