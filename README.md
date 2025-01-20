@@ -92,16 +92,7 @@
 ---
 
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
- 
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik-HR0&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/Karthik-HR0/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Karthik-HR0&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
 
-
-<br><br>
-
----
 <p align="right">
 <a href="https://github.com/Karthik-HR0/paramatrix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthik-HR0&repo=paramatrix&theme=dark&title_color=B0B0B0&icon_color=B0B0B0&text_color=D3D3D3&bg_color=0D0D0D"/></a>
 <a href="https://github.com/Karthik-HR0/sqry"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthik-HR0&repo=sqry&theme=dark&title_color=B0B0B0&icon_color=B0B0B0&text_color=D3D3D3&bg_color=0D0D0D"/></a>
