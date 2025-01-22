@@ -108,7 +108,8 @@
 </h2>
 
 <div align="center" style="margin-bottom: 20px;">
-  <img src="https://images.app.goo.gl/wDYEfnAadvm3aXUv5" alt="Cursed Symbol" width="100" height="100" style="filter: drop-shadow(0 0 10px #FF0000);">
+  <img src="" a![print-221105721](https://github.com/user-attachments/assets/f3c3232e-8b61-478e-bf1c-60e8a7bee6ff)
+lt="Cursed Symbol" width="100" height="100" style="filter: drop-shadow(0 0 10px #FF0000);">
 </div>
 
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #0A0A0A; padding: 20px; border-radius: 10px; box-shadow: 0 0 20px rgba(128, 128, 128, 0.8);">
