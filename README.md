@@ -107,6 +107,10 @@
   <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiIzJFMkUyRSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/R2l0SHViIFN0YXRz/karasha.png" width="200" alt="GitHub Stats title">
 </h2>
 
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brand_of_Sacrifice.svg/1200px-Brand_of_Sacrifice.svg.png" alt="Cursed Symbol" width="100" height="100" style="filter: drop-shadow(0 0 10px #FF0000);">
+</div>
+
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #0A0A0A; padding: 20px; border-radius: 10px; box-shadow: 0 0 20px rgba(128, 128, 128, 0.8);">
   <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-HR0&langs_count=6&layout=compact&title_color=2E2E2E&text_color=808080&bg_color=0A0A0A&border_color=2E2E2E&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="355" height="175" style="margin-right: 10px; box-shadow: 0 0 10px rgba(128, 128, 128, 0.5);" />
@@ -116,6 +120,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthik-HR0&bg_color=0A0A0A&color=808080&line=808080&point=808080&area_color=808080&area=true&hide_border=true&custom_title=%20" width="850" height="300" alt="Contribution Constellation" style="box-shadow: 0 0 10px rgba(128, 128, 128, 0.5);" />
 </div>
 </div>
+
 ---
 
 <p align="right">
