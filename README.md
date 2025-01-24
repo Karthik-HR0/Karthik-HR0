@@ -97,27 +97,12 @@
     <img src="https://streak-stats.demolab.com?user=Karthik-HR0&theme=github-dark&hide_border=true" alt="GitHub Streak">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karthik-HR0&theme=github_dark" alt="GitHub Productive Time">
   </div>
-
-
----
-
-<div style="border: 2px solid #2E2E2E; border-radius: 10px; padding: 20px; margin-bottom: 20px; background-color: #0A0A0A; box-shadow: 0 0 15px rgba(128, 128, 128, 0.8);">
-
-<h2 align="center" style="text-shadow: 0 0 10px #808080;">
-  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiIzJFMkUyRSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/R2l0SHViIFN0YXRz/karasha.png" width="200" alt="GitHub Stats title">
-</h2>
-
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/f3c3232e-8b61-478e-bf1c-60e8a7bee6ff "
-lt="Cursed Symbol" width="100" height="100" style="filter: drop-shadow(0 0 10px #FF0000);">
-</div>
-
+  
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #0A0A0A; padding: 20px; border-radius: 10px; box-shadow: 0 0 20px rgba(128, 128, 128, 0.8);">
   <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-HR0&langs_count=6&layout=compact&title_color=2E2E2E&text_color=808080&bg_color=0A0A0A&border_color=2E2E2E&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="355" height="175" style="margin-right: 10px; box-shadow: 0 0 10px rgba(128, 128, 128, 0.5);" />
     <img src="https://streak-stats.demolab.com?user=Karthik-HR0&background=0A0A0A&ring=808080&fire=808080&currStreakNum=808080&sideNums=808080&currStreakLabel=808080&sideLabels=808080&dates=808080&stroke=2E2E2E&hide_border=true" alt="GitHub Streak Stats" width="465" height="175" style="box-shadow: 0 0 10px rgba(128, 128, 128, 0.5);" />
   </div>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthik-HR0&bg_color=0A0A0A&color=808080&line=808080&point=808080&area_color=808080&area=true&hide_border=true&custom_title=%20" width="850" height="300" alt="Contribution Constellation" style="box-shadow: 0 0 10px rgba(128, 128, 128, 0.5);" />
 </div>
 </div>
@@ -125,6 +110,7 @@ lt="Cursed Symbol" width="100" height="100" style="filter: drop-shadow(0 0 10px 
 ---
 
 <p align="right">
+  <a href="https://github.com/Karthik-HR0/UFX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthik-HR0&repo=UFX&theme=dark&title_color=B0B0B0&icon_color=B0B0B0&text_color=D3D3D3&bg_color=0D0D0D"/></a>
 <a href="https://github.com/Karthik-HR0/paramatrix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthik-HR0&repo=paramatrix&theme=dark&title_color=B0B0B0&icon_color=B0B0B0&text_color=D3D3D3&bg_color=0D0D0D"/></a>
 <a href="https://github.com/Karthik-HR0/sqry"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthik-HR0&repo=sqry&theme=dark&title_color=B0B0B0&icon_color=B0B0B0&text_color=D3D3D3&bg_color=0D0D0D"/></a>
 <a href="https://github.com/Karthik-HR0/refx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthik-HR0&repo=refx&theme=dark&title_color=B0B0B0&icon_color=B0B0B0&text_color=D3D3D3&bg_color=0D0D0D"/></a>
