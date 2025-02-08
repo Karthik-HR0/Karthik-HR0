@@ -90,20 +90,19 @@
 </div>
 
 ---
-
 <div class="github-stats">
   <h2 style="color: #808080; text-align: center;">✨ GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Karthik-HR0&theme=github_dark&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" style="margin-bottom: 15px; box-shadow: 0 0 20px rgba(128, 128, 128, 0.8);">
   <img src="https://streak-stats.demolab.com?user=Karthik-HR0&theme=github-dark&hide_border=true" alt="GitHub Streak" style="margin-bottom: 15px; box-shadow: 0 0 20px rgba(128, 128, 128, 0.8);">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karthik-HR0&theme=github_dark" alt="GitHub Productive Time" style="box-shadow: 0 0 20px rgba(128, 128, 128, 0.8);">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthik-HR0&bg_color=0A0A0A&color=808080&line=808080&point=808080&area_color=808080&area=true&hide_border=true&custom_title=Contribution%20Graph" width="850" height="300" alt="Contribution Graph" style="box-shadow: 0 0 10px rgba(128, 128, 128, 0.5);" />
 </div>
 
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #0A0A0A; padding: 20px; border-radius: 10px; box-shadow: 0 0 20px rgba(128, 128, 128, 0.8);">
   <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-HR0&langs_count=6&layout=compact&title_color=808080&text_color=808080&bg_color=0A0A0A&border_color=2E2E2E&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="355" height="175" style="margin-right: 10px; box-shadow: 0 0 10px rgba(128, 128, 128, 0.5);" />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthik-HR0&bg_color=0A0A0A&color=808080&line=808080&point=808080&area_color=808080&area=true&hide_border=true&custom_title=Contribution%20Graph" width="850" height="300" alt="Contribution Graph" style="box-shadow: 0 0 10px rgba(128, 128, 128, 0.5);" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-HR0&langs_count=6&layout=compact&title_color=808080&text_color=808080&bg_color=0A0A0A&border_color=2E2E2E&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="355" height="175" style="box-shadow: 0 0 10px rgba(128, 128, 128, 0.5);" />
+  </div>
 </div>
+
 
 ---
 
