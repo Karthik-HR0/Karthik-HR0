@@ -104,6 +104,17 @@
 </div>
 
 
+
+
+
+
+
+
+<div align="center">
+  <samp>View Count</samp>
+  <br />
+  <img src="https://profile-counter.glitch.me/{Karthik-HR0}/count.svg" alt="visitor count" />
+</div>
 ---
 
 <p align="right">
