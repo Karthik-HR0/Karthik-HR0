@@ -92,18 +92,24 @@
 ---
 <div class="github-stats">
   <h2 style="color: #808080; text-align: center;">✨ GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthik-HR0&theme=github_dark&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" style="margin-bottom: 15px; box-shadow: 0 0 20px rgba(128, 128, 128, 0.8);">
-  <img src="https://streak-stats.demolab.com?user=Karthik-HR0&theme=github-dark&hide_border=true" alt="GitHub Streak" style="margin-bottom: 15px; box-shadow: 0 0 20px rgba(128, 128, 128, 0.8);">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthik-HR0&bg_color=0A0A0A&color=808080&line=808080&point=808080&area_color=808080&area=true&hide_border=true&custom_title=Contribution%20Graph" width="850" height="300" alt="Contribution Graph" style="box-shadow: 0 0 10px rgba(128, 128, 128, 0.5);" />
-</div>
 
-<div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #0A0A0A; padding: 20px; border-radius: 10px; box-shadow: 0 0 20px rgba(128, 128, 128, 0.8);">
-  <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-HR0&langs_count=6&layout=compact&title_color=808080&text_color=808080&bg_color=0A0A0A&border_color=2E2E2E&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="355" height="175" style="box-shadow: 0 0 10px rgba(128, 128, 128, 0.5);" />
-  </div>
-</div>
+<p data-rand="QhSgkNMYaa" align="center" id="merr">
+  <!-- GitHub Streak Stats -->
+  <a id="vyM8E14ugB" data-rand="mN37ZVSzHJ" target="_blank" aria-label="smtVqE" href="https://github.com/Karthik-HR0/github-readme-streak-stats">
+    <img id="LeeQvvii92" data-rand="wcAIfI5MrY" alt="owApLP" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik-HR0&theme=transparent&hide_border=true&ring=1E90FF&fire=FF4500&currStreakLabel=1E90FF" width="50%"/>
+  </a>
+  <br id="IOiJHAHEMI" data-rand="Q1KbnXzPRy">
 
+  <!-- GitHub Stats -->
+  <a id="9ahvox1LJZ" data-rand="fv2mS20Pnt" target="_blank" aria-label="smtyqX" href="https://github.com/Karthik-HR0/github-readme-stats">
+    <img id="6jic3ngh06" data-rand="LLF9CtkchB" alt="AYkZRe" src="https://github-readme-stats.vercel.app/api?username=Karthik-HR0&show_icons=true&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&title_color=1E90FF&text_color=C9D1D9&icon_color=FFD700" width="50%"/>
+  </a>
 
+  <!-- Top Languages -->
+  <a id="MD3S0rMhyZ" data-rand="nu0L0b53rH" target="_blank" aria-label="smt9k1" href="https://github.com/Karthik-HR0/github-readme-stats">
+    <img id="VnOmtyza94" data-rand="65na7VVXfn" alt="XBYzqe" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-HR0&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&title_color=1E90FF&text_color=C9D1D9" width="39%"/>
+  </a>
+</p>
 
 
 
