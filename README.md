@@ -114,7 +114,7 @@
 
 | `SELECT A CHOICE`  |
 | ------------- |
-| <img src="arrow.svg?raw=true" width="20px" height="20px" /> <a href="https://github.com/mandatoryprogrammer/xsshunter-express">`Self-hosted XSS Hunter (Express)`</a><br/><center><i>Tool for finding blind XSS, set up in five minutes!</i></center>  |
+| <img src="arrow.svg?raw=true" width="20px" height="20px" /> <a href="https://github.com/Karthik-HR0/JSL">`Self-hosted XSS Hunter (Express)`</a><br/><center><i>Javascript Link Finder (JDL)</i></center>  |
 
 
 
