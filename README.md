@@ -125,6 +125,11 @@
 
 ---
 
+
+
+| <img src="arrow.svg?raw=true" width="20px" height="20px" /> <a href="https://github.com/Karthik-HR0/JSL">`Javascript Link Finder (JDL)`</a><br/><center><i>Finds all JavaScript (.js) files on the current webpage in 5 Sec!</i></center>  |
+
+---
 <p align="right">
   <a href="https://github.com/Karthik-HR0/UFX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthik-HR0&repo=UFX&theme=dark&title_color=B0B0B0&icon_color=B0B0B0&text_color=D3D3D3&bg_color=0D0D0D"/></a>
 <a href="https://github.com/Karthik-HR0/paramatrix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthik-HR0&repo=paramatrix&theme=dark&title_color=B0B0B0&icon_color=B0B0B0&text_color=D3D3D3&bg_color=0D0D0D"/></a>
