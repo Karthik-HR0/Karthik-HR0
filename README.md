@@ -114,7 +114,7 @@
 
 | `SELECT A CHOICE`  |
 | ------------- |
-| <img src="arrow.svg?raw=true" width="20px" height="20px" /> <a href="https://github.com/Karthik-HR0/JSL">`Self-hosted XSS Hunter (Express)`</a><br/><center><i>Javascript Link Finder (JDL)</i></center>  |
+| <img src="arrow.svg?raw=true" width="20px" height="20px" /> <a href="https://github.com/Karthik-HR0/JSL">`Javascript Link Finder (JDL)`</a><br/><center><i>Finds all JavaScript (.js) files on the current webpage in 5 Sec!</i></center>  |
 
 
 
