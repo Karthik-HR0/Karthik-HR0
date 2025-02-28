@@ -30,10 +30,9 @@
 - I’m currently learning **everything** 
 - Reach me out at **   **
 
-</details>
 <br>
+  
 
----
 
 <h2 id="present_status"> Present Status </h3>
 
@@ -53,6 +52,7 @@
 `Updating:`  Journey to Cybersecurity Specialist.
 
 
+</details
 ---
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
