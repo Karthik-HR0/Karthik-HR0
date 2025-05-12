@@ -1,7 +1,15 @@
 
 
 
-<p align="center"><img src="https://github.com/user-attachments/assets/d44d5623-ed89-4fa9-ad72-eb76c4d50367" width="100%" height="auto"/></p>
+<a href="#"><img src="https://github.com/user-attachments/assets/d44d5623-ed89-4fa9-ad72-eb76c4d50367" align="right" width="40%"></a>
+
+> [!TIP]
+> [![Spotify - karthik__hr](https://img.shields.io/badge/Spotify-karthik__hr-2ea44f?logo=spotify)](https://open.spotify.com/artist/5U0yZJXM1NjvYV7mZebtX6)<br>
+> <sub>Last played:</sub><br>
+> <!-- [![last - played](https://img.shields.io/badge/last-played-2ea44f?logo=spotify)](https://spotify-github-profile.vercel.app/api/view?uid=jp55czt2a9gy4tnhufh9qdza4&redirect=true) -->
+> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jp55czt2a9gy4tnhufh9qdza4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=jp55czt2a9gy4tnhufh9qdza4&redirect=true)
+
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -10,7 +18,6 @@
 </div>
 
 
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
 
 <h2 align="left">
