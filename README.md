@@ -128,9 +128,6 @@
 | `SELECT A CHOICE`  |
 | ------------- |
 | <img src="arrow.svg?raw=true" width="20px" height="20px" /> <a href="https://github.com/Karthik-HR0/JSL">`Javascript Link Finder (JDL)`</a><br/><center><i>Finds all JavaScript (.js) files on the current webpage in 5 Sec!</i></center>  |
-
-
-
 | <img src="arrow.svg?raw=true" width="20px" height="20px" /> <a href="https://github.com/Karthik-HR0/onlyjs">`0NLYJS`</a><br/><center><i>onlyjs helps speed up your reconnaissance by aggregating .js endpoints!</i></center>  |
 
 
