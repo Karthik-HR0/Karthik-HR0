@@ -131,6 +131,17 @@
 
 
 
+| <img src="arrow.svg?raw=true" width="20px" height="20px" /> <a href="https://github.com/Karthik-HR0/onlyjs">`0NLYJS`</a><br/><center><i>onlyjs helps speed up your reconnaissance by aggregating .js endpoints!</i></center>  |
+
+
+
+
+
+
+
+ 
+
+
 <div align="center">
   <samp>Visitor Count</samp>
   <br />
