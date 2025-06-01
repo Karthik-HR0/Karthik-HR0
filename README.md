@@ -1,15 +1,48 @@
 
 
 
+
+
 <a href="#"><img src="https://github.com/user-attachments/assets/d44d5623-ed89-4fa9-ad72-eb76c4d50367" align="right" width="40%"></a>
 
 > [!TIP]
-> [![Spotify - karthik__hr](https://img.shields.io/badge/Spotify-karthik__hr-2ea44f?logo=spotify)](https://open.spotify.com/artist/5U0yZJXM1NjvYV7mZebtX6)<br>
-> <sub>Last played:</sub><br>
-> <!-- [![last - played](https://img.shields.io/badge/last-played-2ea44f?logo=spotify)](https://spotify-github-profile.vercel.app/api/view?uid=jp55czt2a9gy4tnhufh9qdza4&redirect=true) -->
-> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jp55czt2a9gy4tnhufh9qdza4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=jp55czt2a9gy4tnhufh9qdza4&redirect=true)
+> [![Spotify - karthik__hr](https://img.shields.io/badge/Spotify-karthik__hr-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/artist/5U0yZJXM1NjvYV7mZebtX6)  
+> <sub>Last played </sub> 🎵  
+> <br>
+> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jp55czt2a9gy4tnhufh9qdza4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1DB954&bar_color_cover=false&bar_style=high" 
+>      width="80%" 
+>      style="border-radius: 12px; box-shadow: 0 0 20px #1DB95488;">
 
 
+
+  <!-- Terminal Quote -->
+  <br>
+  <pre style="color:#00ff88; font-size:0.9em; background:#000000; padding:10px; border-radius:8px; border:1px solid #00ff88;">
+$ whoami
+> karthik_hr
+$ echo "Exploit. Exfil. Escape."
+  </pre>
+
+  <!-- Darknet Social Links -->
+  <br>
+  <a href="https://github.com/karthik_hr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=00ff88">
+  </a>
+  <a href="https://t.me/yourtelegram" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0d1117?style=flat&logo=telegram&logoColor=00ff88">
+  </a>
+  <a href="https://discord.com/users/yourdiscord" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-0d1117?style=flat&logo=discord&logoColor=00ff88">
+  </a>
+</div>
+
+
+
+
+
+
+
+---
 
 <div align="center">
   <a href="https://git.io/typing-svg">
