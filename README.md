@@ -20,12 +20,13 @@
   <pre style="color:#00ff88; font-size:0.9em; background:#000000; padding:10px; border-radius:8px; border:1px solid #00ff88;">
 $ whoami
 > karthik_hr
-$ echo "Exploit. Exfil. Escape."
+$ echo " Trust is vulnerability that i can exploit !!."
   </pre>
 
-  <!-- Darknet Social Links -->
+<!-- Darknet Social Links -->
+<div align="center">
   <br>
-  <a href="https://github.com/karthik_hr" target="_blank">
+  <a href="https://github.com/Karthik-HR0" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=00ff88">
   </a>
   <a href="https://t.me/yourtelegram" target="_blank">
@@ -34,9 +35,12 @@ $ echo "Exploit. Exfil. Escape."
   <a href="https://discord.com/users/yourdiscord" target="_blank">
     <img src="https://img.shields.io/badge/Discord-0d1117?style=flat&logo=discord&logoColor=00ff88">
   </a>
+
+  <br><br>
+
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Karthik-HR0&style=flat" alt="Visitor Count"/>
 </div>
-
-
 
 
 
@@ -168,17 +172,3 @@ $ echo "Exploit. Exfil. Escape."
 
 
 
-
-
-
-
-
-
-<div align="center">
-  <samp>Visitor Count</samp>
-  <br />
-  <img src="https://profile-counter.glitch.me/Karthik-HR0/count.svg" alt="visitor count" />
-</div>
-
-
----
