@@ -70,7 +70,7 @@ $ e-eh?! d-did you just stalk my profile...?
 
 
   <!-- i will do it tmrw T-T 13-11-26 -->
-𝙄'𝙢 **[`Karth!k`](https://www.youtube.com/@webgreffer)** ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა, an aspiring **Cybersecurity Specialist, Security Researcher & Bug Hunter**.
+𝙄'𝙢 **[`Karth!k`](https://www.youtube.com/@webgreffer)** /ᐠ > ˕ <マ , an aspiring **Cybersecurity Specialist, Security Researcher & Bug Hunter**.
 
 Passionate about technology, ethical hacking, malware analysis, reverse engineering, and vulnerability research. I'm on a journey to understand how systems work, discover security weaknesses, and help make the digital world safer. ♡
 
