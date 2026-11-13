@@ -2,7 +2,6 @@
 
 
 
-
 <a href="#"><img src="https://github.com/user-attachments/assets/d44d5623-ed89-4fa9-ad72-eb76c4d50367" align="right" width="40%"></a>
 
 > [!TIP]
@@ -170,5 +169,8 @@ $ echo " Trust is vulnerability that i can exploit !!."
 </i></center>  |
 
 
+<p align="center">
+  <img src="https://github.com/Karthik-hr0/Karthik-hr0/blob/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+</p>
 
 
