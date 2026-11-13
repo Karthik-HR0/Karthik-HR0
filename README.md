@@ -1,172 +1,174 @@
 
-
-
-
-<a href="#"><img src="https://github.com/user-attachments/assets/d44d5623-ed89-4fa9-ad72-eb76c4d50367" align="right" width="40%"></a>
-
-> [!TIP]
-> [![Spotify - karthik__hr](https://img.shields.io/badge/Spotify-karthik__hr-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/artist/5U0yZJXM1NjvYV7mZebtX6)  
-> <sub>Last played </sub> 🎵  
-> <br>
-> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jp55czt2a9gy4tnhufh9qdza4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1DB954&bar_color_cover=false&bar_style=high" 
->      width="80%" 
->      style="border-radius: 12px; box-shadow: 0 0 20px #1DB95488;">
-
-
-
-  <!-- Terminal Quote -->
-  <br>
-  <pre style="color:#00ff88; font-size:0.9em; background:#000000; padding:10px; border-radius:8px; border:1px solid #00ff88;">
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <pre>
 $ whoami
-> karthik_hr
-$ echo " Trust is vulnerability that i can exploit !!."
-  </pre>
+&gt; karthik_hr
+$ e-eh?! d-did you just stalk my profile...?
+  (,,&gt;﹏&lt;,,)
+      </pre>
+      <br>
+      <table>
+        <tr>
+          <th><code>SELECT A CHOICE</code></th>
+        </tr>
+        <tr>
+          <td>
+            <img src="arrow.svg?raw=true" width="20px" height="20px" />
+            <a href="https://github.com/Karthik-HR0/JSL"><code>Javascript Link Finder (JDL)</code></a>
+            <br>
+            <center><i>Finds all JavaScript (.js) files on the current webpage in 5 Sec!</i></center>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <img src="arrow.svg?raw=true" width="20px" height="20px" />
+            <a href="https://github.com/Karthik-HR0/onlyjs"><code>0NLYJS</code></a>
+            <br>
+            <center><i>onlyjs helps speed up your reconnaissance by aggregating .js endpoints!</i></center>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <img src="arrow.svg?raw=true" width="20px" height="20px" />
+            <a href="https://github.com/Karthik-HR0/onlyjs"><code>refx</code></a>
+            <br>
+            <center><i>refx is an automated tool for finding reflected parameters on web applications!</i></center>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="45%" valign="top">
+      <a href="#">
+        <img src="https://static2.klipy.com/ii/4493325008d34b7bf8cd6813cd5c1619/39/c3/LkIorpN2Zvp5cD43RZq.gif" width="100%">
+      </a>
+      <blockquote>
+        /ᐠ - ˕ -マ ᶻ 𝗓 𐰁
+        <br>
+        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31blimt6nhtgkcmqp7rsnr7chz24&redirect=true">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31blimt6nhtgkcmqp7rsnr7chz24&cover_image=true&theme=spotify-embed&show_offline=false&background_color=080808&interchange=false&profanity=true&hide_remaster=false&bar_color=c084fc&bar_color_cover=false&mode=dark" width="100%">
+        </a>
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
-<!-- Darknet Social Links -->
-<div align="center">
-  <br>
-  <a href="https://github.com/Karthik-HR0" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=00ff88">
-  </a>
-  <a href="https://t.me/yourtelegram" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0d1117?style=flat&logo=telegram&logoColor=00ff88">
-  </a>
-  <a href="https://discord.com/users/yourdiscord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-0d1117?style=flat&logo=discord&logoColor=00ff88">
-  </a>
 
-  <br><br>
-
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Karthik-HR0&style=flat" alt="Visitor Count"/>
-</div>
-
-
-
-
-
----
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+great+Hacker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B8AAE&width=435&lines=On+journey+to+become+a+great+Hacker" alt="Typing SVG" />
   </a>
 </div>
-
-
-
 
 <h2 align="left">
-  <kbd> Hi there 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> </kbd>
+    <span style="font-size: 45px;">Hi there! ♡ </span>
+    <img src="https://static2.klipy.com/ii/4493325008d34b7bf8cd6813cd5c1619/6c/1d/gyIChPQGkdRjwMe0e4Y.gif" width="55px"/> 
 </h2>
 
-𝙄'𝙢 **[`Web Greffer`](https://www.youtube.com/@webgreffer)**,𝙖 𝙝𝙖𝙘𝙠𝙚𝙧 & 𝙎𝙚𝙘𝙪𝙧𝙞𝙩𝙮 𝙍𝙚𝙨𝙚𝙖𝙧𝙘𝙝𝙚𝙧 𝙖𝙣𝙙 𝙖𝙨𝙥𝙞𝙧𝙞𝙣𝙜 𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮 𝙎𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙨𝙩 𝙖𝙣𝙙 𝘽𝙪𝙜 𝙃𝙪𝙣𝙩𝙚𝙧. 𝙒𝙞𝙩𝙝 𝙖 𝙨𝙩𝙧𝙤𝙣𝙜 𝙥𝙖𝙨𝙨𝙞𝙤𝙣 𝙛𝙤𝙧 𝙩𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙮 𝙖𝙣𝙙 𝙚𝙭𝙥𝙚𝙧𝙩𝙞𝙨𝙚 𝙞𝙣 𝙢𝙖𝙡𝙬𝙖𝙧𝙚 𝙖𝙣𝙖𝙡𝙮𝙨𝙞𝙨, 𝙫𝙪𝙡𝙣𝙚𝙧𝙖𝙗𝙞𝙡𝙞𝙩𝙮 𝙖𝙨𝙨𝙚𝙨𝙨𝙢𝙚𝙣𝙩, 𝙖𝙣𝙙 𝙗𝙪𝙜 𝙝𝙪𝙣𝙩𝙞𝙣𝙜, 𝙢𝙮 𝙜𝙤𝙖𝙡 𝙞𝙨 𝙩𝙤 𝙨𝙖𝙛𝙚𝙜𝙪𝙖𝙧𝙙 𝙙𝙞𝙜𝙞𝙩𝙖𝙡 𝙖𝙨𝙨𝙚𝙩𝙨 𝙖𝙣𝙙 𝙘𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙚 𝙩𝙤 𝙖 𝙢𝙤𝙧𝙚 𝙨𝙚𝙘𝙪𝙧𝙚 𝙤𝙣𝙡𝙞𝙣𝙚 𝙘𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙮.
+
+
+  <!-- i will do it tmrw T-T 13-11-26 -->
+𝙄'𝙢 **[`Karth!k`](https://www.youtube.com/@webgreffer)** ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა, an aspiring **Cybersecurity Specialist, Security Researcher & Bug Hunter**.
+
+Passionate about technology, ethical hacking, malware analysis, reverse engineering, and vulnerability research. I'm on a journey to understand how systems work, discover security weaknesses, and help make the digital world safer. ♡
 
 <details>
-  <summary>More about me</summary>
-  
-- **Bug Hunter** | **Security Researcher** | **forensics Analyst**
-- i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy.
--**Reverse Engineering**, **Malware Analysis**
-- Improving knowledge in **Website Vulnerabilities**
-- I’m currently learning **everything** 
-- Reach me out at **   **
+<summary>☣ More about me</summary>
 
-<br>
-  
-
-
-<h2 id="present_status"> Present Status </h3>
-
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
-
-
-👉 Still Learning Bug hunting & malware forensics.
-
-👉 Managing Tech Communities & Content creator.
-
-👉 Writing Some Useful Tools For Myself & Communities
-
-👉 Building & Contributing To Open Source Projects
-
-👉 Currently Learning mobile pentesting & web3 
-
-`Updating:`  Journey to Cybersecurity Specialist.
-
-
-</details
----
-
-<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
+-  Bug Hunter | Security Researcher | Digital Forensics
+-  Interested in Reverse Engineering & Malware Analysis
+-  Exploring Web Application Security
+-  Learning Mobile Pentesting & Web3 Security
+-  Building useful tools for myself and communities
+-  Contributing to Open Source Projects
+-  Managing tech communities & creating content
 
 <br>
 
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
-      <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
-      <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Go" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
-      <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Debian" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&color=000000" alt="Flutter" />
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
-      <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++" />
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
-      <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/BlackArch-0A0A0A?style=for-the-badge&logo=blackarch&color=000000" alt="BlackArch" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&color=000000" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&color=000000" alt="ExpressJS" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&color=000000" alt="React" />
-      <img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrot&color=000000" alt="Parrot OS" />
-      <img src="https://img.shields.io/badge/Node.js-8CC84C?style=for-the-badge&logo=node.js&color=000000" alt="NodeJS" />
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
-  </div>
+<h2 align="left">☣ Present Status</h2>
+
+<img width="25%" align="right" src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+
+-  Still learning Bug Hunting & Malware Forensics
+-  Managing Tech Communities & Content Creation
+-  Building useful tools and open-source projects
+-  Exploring Mobile Pentesting & Web3 Security
+
+`Currently:` On my journey to becoming a Cybersecurity Specialist ♡
+
+</details>
+
+<<h2 align="left"> ⚠︎ Knowledge & Skills</h2>
+
+<div style="border: 2px solid #9B8AAE; border-radius: 12px; padding: 15px;">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Burp_Suite-9B8AAE?style=for-the-badge&logo=burp-suite&logoColor=9B8AAE&labelColor=080808" alt="Burp Suite">
+<img src="https://img.shields.io/badge/Metasploit-9B8AAE?style=for-the-badge&logo=metasploit&logoColor=9B8AAE&labelColor=080808" alt="Metasploit">
+<img src="https://img.shields.io/badge/Wireshark-9B8AAE?style=for-the-badge&logo=wireshark&logoColor=9B8AAE&labelColor=080808" alt="Wireshark">
+<img src="https://img.shields.io/badge/Bash-9B8AAE?style=for-the-badge&logo=gnu-bash&logoColor=9B8AAE&labelColor=080808" alt="Bash">
+<img src="https://img.shields.io/badge/Python-9B8AAE?style=for-the-badge&logo=python&logoColor=9B8AAE&labelColor=080808" alt="Python">
+<img src="https://img.shields.io/badge/Linux-9B8AAE?style=for-the-badge&logo=linux&logoColor=9B8AAE&labelColor=080808" alt="Linux">
+<img src="https://img.shields.io/badge/Go-9B8AAE?style=for-the-badge&logo=go&logoColor=9B8AAE&labelColor=080808" alt="Go">
+<img src="https://img.shields.io/badge/Git-9B8AAE?style=for-the-badge&logo=git&logoColor=9B8AAE&labelColor=080808" alt="Git">
+<img src="https://img.shields.io/badge/Debian-9B8AAE?style=for-the-badge&logo=debian&logoColor=9B8AAE&labelColor=080808" alt="Debian">
+<img src="https://img.shields.io/badge/Docker-9B8AAE?style=for-the-badge&logo=docker&logoColor=9B8AAE&labelColor=080808" alt="Docker">
+<img src="https://img.shields.io/badge/Flutter-9B8AAE?style=for-the-badge&logo=flutter&logoColor=9B8AAE&labelColor=080808" alt="Flutter">
+<img src="https://img.shields.io/badge/C-9B8AAE?style=for-the-badge&logo=c&logoColor=9B8AAE&labelColor=080808" alt="C">
+<img src="https://img.shields.io/badge/C%2B%2B-9B8AAE?style=for-the-badge&logo=cplusplus&logoColor=9B8AAE&labelColor=080808" alt="C++">
+<img src="https://img.shields.io/badge/Java-9B8AAE?style=for-the-badge&logo=openjdk&logoColor=9B8AAE&labelColor=080808" alt="Java">
+<img src="https://img.shields.io/badge/HTML5-9B8AAE?style=for-the-badge&logo=html5&logoColor=9B8AAE&labelColor=080808" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-9B8AAE?style=for-the-badge&logo=css3&logoColor=9B8AAE&labelColor=080808" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-9B8AAE?style=for-the-badge&logo=javascript&logoColor=9B8AAE&labelColor=080808" alt="JavaScript">
+<img src="https://img.shields.io/badge/BlackArch-9B8AAE?style=for-the-badge&logo=archlinux&logoColor=9B8AAE&labelColor=080808" alt="BlackArch">
+<img src="https://img.shields.io/badge/MongoDB-9B8AAE?style=for-the-badge&logo=mongodb&logoColor=9B8AAE&labelColor=080808" alt="MongoDB">
+<img src="https://img.shields.io/badge/ExpressJS-9B8AAE?style=for-the-badge&logo=express&logoColor=9B8AAE&labelColor=080808" alt="ExpressJS">
+<img src="https://img.shields.io/badge/React-9B8AAE?style=for-the-badge&logo=react&logoColor=9B8AAE&labelColor=080808" alt="React">
+<img src="https://img.shields.io/badge/Parrot_OS-9B8AAE?style=for-the-badge&logo=parrotsecurity&logoColor=9B8AAE&labelColor=080808" alt="Parrot OS">
+<img src="https://img.shields.io/badge/Node.js-9B8AAE?style=for-the-badge&logo=nodedotjs&logoColor=9B8AAE&labelColor=080808" alt="Node.js">
+<img src="https://img.shields.io/badge/Ubuntu-9B8AAE?style=for-the-badge&logo=ubuntu&logoColor=9B8AAE&labelColor=080808" alt="Ubuntu">
+<img src="https://img.shields.io/badge/Kali_Linux-9B8AAE?style=for-the-badge&logo=kalilinux&logoColor=9B8AAE&labelColor=080808" alt="Kali Linux">
+<img src="https://img.shields.io/badge/VS_Code-9B8AAE?style=for-the-badge&logo=visualstudiocode&logoColor=9B8AAE&labelColor=080808" alt="VS Code">
+
+</div>
 </div>
 
 ---
+---
+
 <div class="github-stats">
-  <h2 style="color: #808080; text-align: center;">✨ GitHub Stats</h2>
+  <h2 style="color: #9B8AAE; text-align: center;">✩₊˚.⋆ GitHub Stats 🕸️⋆⁺₊✧ </h2>
 
-<p data-rand="QhSgkNMYaa" align="center" id="merr">
-  <!-- GitHub Streak Stats -->
-  <a id="vyM8E14ugB" data-rand="mN37ZVSzHJ" target="_blank" aria-label="smtVqE" href="https://github.com/Karthik-HR0/github-readme-streak-stats">
-    <img id="LeeQvvii92" data-rand="wcAIfI5MrY" alt="owApLP" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik-HR0&theme=transparent&hide_border=true&ring=1E90FF&fire=FF4500&currStreakLabel=1E90FF" width="50%"/>
-  </a>
-  <br id="IOiJHAHEMI" data-rand="Q1KbnXzPRy">
+  <p align="center">
+    <a href="https://github.com/Karthik-HR0/github-readme-streak-stats" target="_blank">
+      <img
+        src="https://streak-stats.demolab.com/?user=Karthik-HR0&theme=transparent&hide_border=true&ring=9B8AAE&fire=9B8AAE&currStreakLabel=9B8AAE&sideLabels=9B8AAE&currStreakNum=EDEDED&sideNums=EDEDED&dates=9B8AAE"
+        alt="GitHub Streak Stats"
+        width="50%"
+      />
+    </a>
+    <br/>
+    <a href="https://github.com/Karthik-HR0/github-readme-stats" target="_blank">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=Karthik-HR0&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&title_color=9B8AAE&text_color=EDEDED&icon_color=9B8AAE"
+        alt="GitHub Stats"
+        width="50%"
+      />
+    </a>
+    <a href="https://github.com/Karthik-HR0/github-readme-stats" target="_blank">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Karthik-HR0&layout=compact&theme=transparent&bg_color=00000000&hide_border=true&title_color=9B8AAE&text_color=EDEDED"
+        alt="Top Languages"
+        width="39%"
+      />
+    </a>
 
-  <!-- GitHub Stats -->
-  <a id="9ahvox1LJZ" data-rand="fv2mS20Pnt" target="_blank" aria-label="smtyqX" href="https://github.com/Karthik-HR0/github-readme-stats">
-    <img id="6jic3ngh06" data-rand="LLF9CtkchB" alt="AYkZRe" src="https://github-readme-stats.vercel.app/api?username=Karthik-HR0&show_icons=true&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&title_color=1E90FF&text_color=C9D1D9&icon_color=FFD700" width="50%"/>
-  </a>
+  </p>
+</div>
 
-  <!-- Top Languages -->
-  <a id="MD3S0rMhyZ" data-rand="nu0L0b53rH" target="_blank" aria-label="smt9k1" href="https://github.com/Karthik-HR0/github-readme-stats">
-    <img id="VnOmtyza94" data-rand="65na7VVXfn" alt="XBYzqe" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-HR0&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&title_color=1E90FF&text_color=C9D1D9" width="39%"/>
-  </a>
-</p>
-
-
-
-  
-
-
-  
-| `SELECT A CHOICE`  |
-| ------------- |
-| <img src="arrow.svg?raw=true" width="20px" height="20px" /> <a href="https://github.com/Karthik-HR0/JSL">`Javascript Link Finder (JDL)`</a><br/><center><i>Finds all JavaScript (.js) files on the current webpage in 5 Sec!</i></center>  |
-| <img src="arrow.svg?raw=true" width="20px" height="20px" /> <a href="https://github.com/Karthik-HR0/onlyjs">`0NLYJS`</a><br/><center><i>onlyjs helps speed up your reconnaissance by aggregating .js endpoints!</i></center>  |
-| <img src="arrow.svg?raw=true" width="20px" height="20px" /> <a href="https://github.com/Karthik-HR0/onlyjs">`refx`</a><br/><center><i>refx is an automated tool for finding reflected parameters on web applications!
-</i></center>  |
 
 
 <p align="center">
