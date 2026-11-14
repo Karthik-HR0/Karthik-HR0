@@ -100,7 +100,7 @@ Passionate about technology, ethical hacking, malware analysis, reverse engineer
 
 </details>
 
-<<h2 align="left"> ⚠︎ Knowledge & Skills</h2>
+<<h2 align="left"> ⚒  Knowledge & Skills</h2>
 
 <div style="border: 2px solid #9B8AAE; border-radius: 12px; padding: 15px;">
 
